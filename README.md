@@ -9,3 +9,6 @@ Data downloaded from the [National Archive of Criminal Justice Data](http://www.
 
 ## Overview
 The Law Enforcement Management and Administrative Statistics (LEMAS) survey collects data from a nationally representative sample of state and local law enforcement agencies in the United States.
+
+## Contribute
+This repository uses Github Large-File-Storage (LFS). You will need to install git lfs before cloning the repository to get the data. More information about git lfs and how to install it can be found [here](https://git-lfs.github.com/)
