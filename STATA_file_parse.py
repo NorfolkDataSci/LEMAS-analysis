@@ -1,6 +1,6 @@
 """
     Author: Josiah Baker
-    Org: Data Science User Group
+    Org: Norfolk Data Science
 
     Simple script for reading a ASCII.txt file with a STATA .dct file into a CSV
     To use: 
