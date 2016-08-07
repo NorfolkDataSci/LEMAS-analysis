@@ -14,3 +14,5 @@ local trends against state and/or national trends.
 ## Data Source
 Data downloaded from the [National Archive of Criminal Justice Data](http://www.icpsr.umich.edu/icpsrweb/NACJD/) (NACJD)
 
+## Contribute
+This repository uses Github Large-File-Storage (LFS). You will need to install git lfs before cloning the repository to get the data. More information about git lfs and how to install it can be found [here](https://git-lfs.github.com/)
